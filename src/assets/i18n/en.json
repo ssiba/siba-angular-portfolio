@@ -1,0 +1,160 @@
+{
+	"Header.Item1": "About Me",
+	"Header.Item2": "Experience",
+	"Header.Item3": "My Projects",
+	"Header.Item4": "Blogs",
+	"Header.Item5": "Contact",
+	"Header.cvBtn": "Resume",
+	"Header.cvName": "Siba_Updated_Resume.pdf",
+	"Banner.Pretitle": "Hello! My name is",
+	"Banner.Description": "I'm a software engineer with <span class='underline'>over 4 years of experience</span>, specializing in developing web applications.my professional journey is a testament to my commitment to excellence, continual learning, and a passion for creating impactful digital experiences, specializing in frontend technologies.. Currently, I'm employed at <span class='underline'>Capgemini Technology Services India Limited</span>, where I focus on building web Application.",
+	"Banner.ActionBtn": "Get in touch",
+	"AboutMe.Title": "About Me",
+	"AboutMe.Paragraphs": [
+		"I'm Siba Sankar Gouda, a passionate software engineer based in Bengaluru, Karnataka. With a Bachelor's degree in Computer Applications from Berhampur University, I have been on a dynamic journey in the realm of technology, consistently striving for excellence.",
+		"I am a passionate and detail-oriented Software Engineer with hands-on experience in Angular, JavaScript, and frontend development. Throughout my career, I have contributed to diverse projects, from developing Pharmacy Modules to customizing ERP applications. I thrive in collaborative environments, am on track to become a Frontend Team Coordinator, and enjoy mentoring interns to foster a culture of continuous learning.  Let's connect and explore opportunities to create impactful solutions together.",
+		"Experience developing web applications using Front-End frameworks (i.e., Angular 2+, HTML, JavaScript, CSS, Typescript, Angular material design, bootstrap)."
+	],
+	"AboutMe.conclude": [
+		"So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
+	],
+	"Experience.Title": "Experience",
+	"Experience.Jobs": [
+		{
+			"Tab": "Capgemini",
+			"Title": "Professional I",
+			"Date": "May 2021 - Present",
+			"Description": [
+				"As a Professional I at Capgemini in Bengaluru, Karnataka, I play a crucial role in designing and developing frontend components for data validation and transfer within the Matrix application. My responsibilities include fixing bugs, implementing new features, and writing comprehensive Unit Test cases to ensure the robustness of the application. I actively contribute to refactoring and optimizing the existing codebase, emphasizing modularization for easy maintenance. Hands-on experience with Angular CLI (Command Line Interface)",
+				"Designing & developing frontend components for data validation & data transfer for Matrix application",
+				"Taking an active role in structuring our single page applications to make them easy to maintain and to ensure they are highly modularization",
+				"Hands on Experience on Angular CLI (Command line Interface)",
+				"Fixing bugs, implementing features, and creat shared services"
+			]
+		},
+
+		{
+			"Tab": "IOTA Informatics",
+			"Title": "Associate Software Engineer",
+			"Date": "May 2020 - december 2020",
+			"Description": [
+				"I joined Iota Informatics as an Associate Software Engineer, contributing to the development of innovative solutions within the healthcare sector. During my tenure, I actively participated in several impactful projects, showcasing my proficiency in frontend technologies and collaborative skills. One notable project involved the development of the Pharmacy Module, seamlessly integrated into the existing DigiQure Platform. My responsibilities included enhancing doctor profiles through a setting-based module, implementing role-based user verification, and independently managing the PhysiQure solution, where I successfully implemented various features.",
+				"Worked on developing Pharmacy Module and integrated with existing DigiQure Platform.",
+				"Worked on setting-based doctor profile enhancing module.",
+				"Independently handled PhysiQure solution and implemented various features in it"
+			]
+		},
+		{
+			"Tab": "Software Developer",
+			"Title": "Atrity Info Solutions Private Limited",
+			"Date": "October 2019 - April 2020",
+			"Description": [
+				"I had the privilege of serving as a Software Developer at Atrity Info Solutions in Chennai, Tamil Nadu, from October 2019 to April 2020. During my tenure, I played a pivotal role in leading and collaborating with a dynamic team, successfully accomplishing tasks assigned by senior professionals. As part of the FrontEnd development team, I contributed to shaping the workflow and actively worked towards becoming a FrontEnd Team Coordinator. My responsibilities involved working on the REST/Web API to create essential services, and I gained hands-on experience in Angular and TypeScript",
+				"Lead and worked closely along with the team to fulfill the task assigned by seniors during the workflow.",
+				"Added TMS (Task management system) to track employee’s task. Employee can create time sheet for every week",
+				"Raising invoice for the delivery challan and capturing payment details for the sales order or customer."
+			]
+		}
+	],
+	"FeatureProjects.Title": "My Projects",
+	"FeatureProjects.Label": "Featured Project",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "Healthcare CMS",
+			"Description": "In my journey as a software engineer, I have had the opportunity to contribute significantly to the development of a Health Care CMS (Content Management System). This project aimed to enhance the efficiency and effectiveness of healthcare operations by providing a robust platform for managing and organizing critical content and data. As part of my role, I actively participated in the design and development of the frontend components responsible for data validation and seamless data transfer within the CMS. This involved a meticulous approach to ensure the integrity and security of healthcare-related information. I played a key role in fixing bugs, implementing new features, and writing unit test cases to ensure the reliability of the system",
+			"imgs": [
+				"assets/images/cms/1.jpg",
+				"assets/images/cms/3.jpg",
+				"assets/images/cms/4.png",
+				"assets/images/cms/40.png"
+			],
+			"demoLink": "https://github.com/ssiba",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3",
+				"Angular",
+				"NodeJS",
+				"Git",
+				"Jira",
+				".Net"
+			]
+		},
+		{
+			"Title": "Enterprise Resource Planning (ERP) Solutions",
+			"Description": "In the realm of Enterprise Resources Planning (ERP), I took a pivotal role in the development of a tailored ERP application using Angular 6, HTML, CSS, and JavaScript. This project showcased my technical acumen and problem-solving skills. Introduced a comprehensive Task Management System, empowering employees to track their tasks seamlessly. This included the functionality for creating weekly timesheets, promoting efficiency and task visibility within the organization.",
+			"imgs": [
+				"assets/images/cms/11.jpg",
+				"assets/images/cms/10.png",
+				"assets/images/cms/9.jpg",
+				"assets/images/cms/12.png"
+			],
+			"demoLink": "https://github.com/ssiba",
+			"Technologies": [
+				"HTML/HTML5",
+				"CSS/CSS3",
+				"LESS",
+				"Angular",
+				"Azure",
+				"C#",
+				".NET",
+				"Bootstrap",
+				"PrimeNG",
+				"Git",
+				"Jira",
+				"Bitbucket"
+			]
+		},
+		{
+			"Title": "Matrix application",
+			"Description": "Spearheading the creation of frontend components, my focus has been on ensuring seamless data validation and secure data transfer within the Matrix application. This involves crafting intuitive user interfaces that enhance the overall user experience.",
+			"imgs": [
+				"assets/images/cms/42.png",
+				"assets/images/cms/41.png",
+				"assets/images/cms/43.jpg",
+				"assets/images/cms/44.jpg",
+				"assets/images/cms/45.jpg"
+
+
+			],
+			"demoLink": "https://github.com/ssiba",
+			"Technologies": [
+				"HTML",
+				"CSS",
+				"LESS",
+				"Angular",
+				"Angular Material",
+				"Bootstrap",
+				"Java",
+				"Git",
+				"Bitbucket"
+			]
+		}
+	],
+	"OtherProjects.Title": "More Projects",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Angular Reactive orms",
+			"Description": "Reactive Forms in Angular provide a powerful and flexible way to manage form data and its validation. Unlike template-driven forms, reactive forms are defined programmatically in the component code,offering better control and scalability. Here are some key concepts and features of reactive forms in Angular.",
+			"ghLink": "https://github.com/ssiba/reactive-form-",
+			"demoLink": "https://reactiveformcurd.netlify.app/#/registration",
+			"Technologies": ["Angular","Bootstrap"]
+		},
+		{
+			"Title": "Curd Angular Application",
+			"Description": "The Angular CRUD (Create, Read, Update, Delete) application is a robust web application built using the Angular framework, designed to seamlessly manage data with a user-friendly interface. This application follows the principles of CRUD operations, providing users with the ability to interact with data in a dynamic and efficient manner..",
+			"ghLink": "https://github.com/ssiba/curd",
+			"demoLink": "https://github.com/ssiba/curd",
+			"Technologies": ["Angular", "Bootstrap", "HTML", "CSS"]
+		},
+		{
+			"Title": "Bootstrap Explore ",
+			"Description": "Bootstrap is known for its built-in grid system that helps create responsive layouts. The grid system is based on a 12-column layout, making it easy to design web pages that adapt to different screen sizes and devices. This is crucial for providing a consistent and user-friendly experience across desktops, tablets, and smartphones",
+			"ghLink": "https://github.com/ssiba/bootstrap4-",
+			"demoLink": "https://mastersitakantsolution.netlify.app/",
+			"Technologies": ["Bootstrap", "HTML", "CSS"]
+		}
+	],
+	"Contact.Pretitle": "What’s Next",
+	"Contact.Title": "Get in touch!",
+	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person. Please connect with me by gmail: sibagouda1818@gmail.com"
+}
