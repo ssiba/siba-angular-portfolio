@@ -5,7 +5,7 @@
 	"Header.Item4": "Blogs",
 	"Header.Item5": "Contact",
 	"Header.cvBtn": "Resume",
-	"Header.cvName": "Siba_Updated_Resume.pdf",
+	"Header.cvName": "Siba Sankar Gouda LatestCV.pdf",
 	"Banner.Pretitle": "Hello! My name is",
 	"Banner.Description": "I'm a software engineer with <span class='underline'>over 4 years of experience</span>, specializing in developing web applications.my professional journey is a testament to my commitment to excellence, continual learning, and a passion for creating impactful digital experiences, specializing in frontend technologies.. Currently, I'm employed at <span class='underline'>Capgemini Technology Services India Limited</span>, where I focus on building web Application.",
 	"Banner.ActionBtn": "Get in touch",
@@ -140,7 +140,7 @@
 			"Technologies": ["Angular","Bootstrap"]
 		},
 		{
-			"Title": "Curd Angular Application",
+			"Title": "Crud Angular Application",
 			"Description": "The Angular CRUD (Create, Read, Update, Delete) application is a robust web application built using the Angular framework, designed to seamlessly manage data with a user-friendly interface. This application follows the principles of CRUD operations, providing users with the ability to interact with data in a dynamic and efficient manner..",
 			"ghLink": "https://github.com/ssiba/curd",
 			"demoLink": "https://github.com/ssiba/curd",
